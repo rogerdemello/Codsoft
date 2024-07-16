@@ -1,6 +1,6 @@
-**Encryptix**
+**Codsoft**
 
-This is the repository for Encryptix C++ internship. It includes the 4 tasks:
+This is the repository for Codsoft C++ internship. It includes the 4 tasks:
 
 
 1. Number guessing game.
